@@ -7,7 +7,7 @@ Tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel</br>
 
 # Instalasi
  ```html
-wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
+apt install wget -y && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
  ```
 Beberapa Fitur seperti :</br>
 ❖ Bisa milih OS</br>
