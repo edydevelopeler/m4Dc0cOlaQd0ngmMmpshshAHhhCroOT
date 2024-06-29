@@ -9,11 +9,14 @@ Beberapa Fitur seperti :</br>
 ❖ Bisa change source list tercepat sesuai lokasi </br>
 
 # Alur Change Source list
-❖ Ganti repo dulu
-❖ Reboot 10 menitan proses install
-❖ Setelah reboot, jalankan script lagi
-❖ lalu pilih opsi no 3 Change Sourcelist
-❖ next tinggal apt update && apt upgrade -y
+❖ Ganti repo dulu</br>
+❖ Reboot 10 menitan proses install</br>
+❖ Setelah reboot, jalankan script lagi</br>
+❖ lalu pilih opsi no 3 Change Sourcelist</br>
+
+# Next Tinggal 
+```bash
+apt update && apt upgrade -y
 
 # Instalasi
 ```bash
