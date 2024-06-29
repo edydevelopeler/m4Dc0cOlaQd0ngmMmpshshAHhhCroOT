@@ -1,8 +1,8 @@
 # MAD Ngentot VPS Installer
 
-Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
+![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/ba93fe85-11d8-426a-8143-afca4ab3a610)
 
-![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/7598b274-000b-41b8-82f0-60359aa6a034)
+Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
 
 # Instalasi
 ```bash
