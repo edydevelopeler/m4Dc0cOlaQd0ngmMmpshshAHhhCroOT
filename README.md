@@ -2,7 +2,8 @@
 
 ![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/ba93fe85-11d8-426a-8143-afca4ab3a610)
 
-# Ini adalah Script Ezzy Rebuild Paksa Vipies tanpa harus masuk ke panel</br>
+# Ini adalah Script Ezzy Rebuild Paksa VPS</br>
+tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel</br>
 
 # Instalasi
  ```html
