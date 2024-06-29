@@ -6,4 +6,4 @@ Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
 
 # Instalasi
 ```bash
-apt install wget && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
+apt install wget -y && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
