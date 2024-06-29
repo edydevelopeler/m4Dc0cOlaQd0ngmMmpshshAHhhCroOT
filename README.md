@@ -4,9 +4,9 @@
 
 # Ini adalah Script Ezzy Rebuild Paksa Vipies tanpa harus masuk ke panel</br>
 
-Beberapa Fitur seperti :
-❖ Bisa milih OS
-❖ Bisa change source list tercepat sesuai lokasi 
+Beberapa Fitur seperti :</br>
+❖ Bisa milih OS</br>
+❖ Bisa change source list tercepat sesuai lokasi </br>
 
 # Alur Change Source list
 ❖ Ganti repo dulu
