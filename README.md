@@ -1,8 +1,19 @@
-# MADNgentot Rebuild VPS v.69
+# MADNgentot Rebuild VPS v.6.9
 
 ![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/ba93fe85-11d8-426a-8143-afca4ab3a610)
 
-Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
+# Ini adalah Script Ezzy Rebuild Paksa Vipies tanpa harus masuk ke panel</br>
+
+Beberapa Fitur seperti :
+❖ Bisa milih OS
+❖ Bisa change source list tercepat sesuai lokasi 
+
+# Alur Change Source list
+❖ Ganti repo dulu
+❖ Reboot 10 menitan proses install
+❖ Setelah reboot, jalankan script lagi
+❖ lalu pilih opsi no 3 Change Sourcelist
+❖ next tinggal apt update && apt upgrade -y
 
 # Instalasi
 ```bash
