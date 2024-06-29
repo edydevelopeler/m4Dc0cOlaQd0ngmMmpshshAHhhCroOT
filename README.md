@@ -2,7 +2,9 @@
 
 Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
 
-![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/d461882b-41ee-42ce-ba68-838690a734f4)
+![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/a09e367b-f489-4b1d-9865-99010092690b)
+
+)
 
 # Instalasi
 ```bash
