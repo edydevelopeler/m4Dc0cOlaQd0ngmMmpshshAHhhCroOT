@@ -4,6 +4,10 @@
 
 # Ini adalah Script Ezzy Rebuild Paksa Vipies tanpa harus masuk ke panel</br>
 
+# Instalasi
+ ```html
+wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
+ ```
 Beberapa Fitur seperti :</br>
 ❖ Bisa milih OS</br>
 ❖ Bisa change source list tercepat sesuai lokasi </br>
@@ -14,10 +18,7 @@ Beberapa Fitur seperti :</br>
 ❖ Setelah reboot, jalankan script lagi</br>
 ❖ lalu pilih opsi no 3 Change Sourcelist</br>
 
-# Next Tinggal 
-```bash
+Next Tinggal Update
+ ```html
 apt update && apt upgrade -y
-
-# Instalasi
-```bash
-wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
+ ```
