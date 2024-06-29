@@ -2,7 +2,8 @@
 
 Ini adalah Script Ezzy Installer Vipies tanpa harus masuk ke panel</br>
 
-![image](https://github.com/GawrAme/MarLing/assets/97426017/3aeedf09-308e-41b0-9640-50e4abb77aa0) </br>
+![image](![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/d461882b-41ee-42ce-ba68-838690a734f4)
+) </br>
 
 # Instalasi
   ```html
