@@ -6,6 +6,9 @@
 Tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel.</br>
 Cocok juga kalo kalian beli VPS DO misalnya ke seller, biar gak ngrepotin seller buat rebuild mulu</br>
 
+Q : rebuild tanpa masuk panel gmn bg?
+A : MadNgentot Rebuild solusinya 🤌🏻
+
 # Instalasi
  ```html
 apt install wget -y && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
