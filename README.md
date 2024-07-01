@@ -6,8 +6,8 @@
 Tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel.</br>
 Cocok juga kalo kalian beli VPS DO misalnya ke seller, biar gak ngrepotin seller buat rebuild mulu</br>
 
-Q : rebuild tanpa masuk panel gmn bg?
-A : MadNgentot Rebuild solusinya 🤌🏻
+Q : rebuild tanpa masuk panel gmn bg?</br>
+A : MadNgentot Rebuild solusinya</br>
 
 # Instalasi
  ```html
