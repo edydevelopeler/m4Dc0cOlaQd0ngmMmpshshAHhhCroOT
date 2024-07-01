@@ -3,7 +3,7 @@
 ![image](https://github.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/assets/152673375/ba93fe85-11d8-426a-8143-afca4ab3a610)
 
 # Ini adalah Script Ezzy Rebuild Paksa VPS</br>
-Tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel</br>
+Tanpa harus ribet masuk ke panel, cocok untuk kalian yang lupa panel.</br>
 Cocok juga kalo kalian beli VPS DO misalnya ke seller, biar gak ngrepotin seller buat rebuild mulu</br>
 
 # Instalasi
