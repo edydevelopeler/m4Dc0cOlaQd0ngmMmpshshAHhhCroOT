@@ -13,7 +13,7 @@ A : MadNgentot Rebuild solusinya</br>
 
 # Instalasi
  ```html
-apt install wget -y && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot.sh && chmod +x madngentot.sh && ./madngentot.sh
+apt install wget -y && wget https://raw.githubusercontent.com/edydevelopeler/m4Dc0cOlaQd0ngmMmpshshAHhhCroOT/main/madngentot && chmod +x madngentot && ./madngentot
  ```
 Beberapa Fitur seperti :</br>
 ❖ Bisa milih OS</br>
